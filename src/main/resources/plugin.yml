@@ -1,0 +1,4 @@
+name: ModSuite
+depend: [Proton]
+version: 1.0
+main: me.preceding.modsuite.ModSuite
